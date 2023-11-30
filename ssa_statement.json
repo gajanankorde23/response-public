@@ -1,0 +1,28 @@
+{
+  "statementData":[{
+    "tranParticulars":"TRNSFR TWRDS MN SEP 23",
+    "amount":2500.00,
+    "currBalance":10000,
+    "createdDate":"2023-09-01"
+  },
+  {
+    "tranParticulars":"TRNSFR TWRDS MN OCT 23",
+    "amount":2500.00,
+    "currBalance":12500,
+    "createdDate":"2023-10-01"
+  },
+{
+    "tranParticulars":"TRNSFR TWRDS MN OCT 23",
+    "amount":2500.00,
+    "currBalance":15000,
+    "createdDate":"2023-09-01"
+  },
+{
+    "tranParticulars":"INTERST TXN FY22-23",
+    "amount":1480.20,
+    "currBalance":16480.20,
+    "createdDate":"2023-09-01"
+  }
+
+]
+}
