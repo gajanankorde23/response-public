@@ -1,8 +1,55 @@
 {
-  "acctNum":"00231388320123",
-  "childName": "Ruth",
-  "childDob":"2022-01-01",
-  "relationWithChild":"Father",
-  "birthType":"1",
-  "ssaReferenceNumber":"GBM202311300092213053"
+	"accts": [
+		{
+			"acctStatus":"ACTIVE",
+			"applNum": "3242342312312",
+			"acctBals":[
+				{
+					"amount":2511233.000,
+					"balTypeCode":null,
+					"currencyCode":"INR"
+				},
+				{
+					"amount":109277.000,
+					"balTypeCode":null,
+					"currencyCode":"INR"
+				}
+			],
+			"bankInfo": {
+				"id": "452819102",
+				"bankId": "71212288",
+				"branchId": "branch667788",
+				"branchName": "VEER NARIMAN ROAD - MUMBAI",
+				"branchSolId":"branchSol21312",
+				"name":"UBI",
+				"address": {
+					"addrType": "Permanent",
+					"addrLine1": "85,22 Raj Mahal",
+					"addrLine2": "Veer Nariman Road",
+					"addrLine3": "Churchgate",
+					"addrLine4": "Mumbai",
+					"pinCode": "842106",
+					"cityCode": "city12",
+					"stateCode": "state12",
+					"countryCode": "country12"
+				}
+			},
+			"cif": "9999999222",
+			"displayName": "Meera",
+			"acctNum": "799002656878795",
+			"name": "Meera",
+			"nickName": "Meera",
+			"nominee": null,
+			"scheme": null
+		}
+	],
+	"applNum":"5556555566",
+	"birthType": "Single",
+	"cif":"9999999222",
+	"currFYContriAmt": "25000.0",
+	"penaltyAmt": "2500.00",
+	"relationWithChild": "Daughter",
+	"remarks":"SSA Contribution",
+	"rqType": "Contri",
+	"txnId":"2344551231"
 }
