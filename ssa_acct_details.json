@@ -41,11 +41,53 @@
 			"nickName": "Meera",
 			"nominee": null,
 			"scheme": null
+		},
+		{
+			"acctStatus":"ACTIVE",
+			"applNum": "3242342312777",
+			"acctBals":[
+				{
+					"amount":2588833.000,
+					"balTypeCode":null,
+					"currencyCode":"INR"
+				},
+				{
+					"amount":277277.000,
+					"balTypeCode":null,
+					"currencyCode":"INR"
+				}
+			],
+			"bankInfo": {
+				"id": "452812526",
+				"bankId": "71212424",
+				"branchId": "branch66555",
+				"branchName": "VEER NARIMAN ROAD - MUMBAI",
+				"branchSolId":"branchSol763637",
+				"name":"UBI",
+				"address": {
+					"addrType": "Permanent",
+					"addrLine1": "85,22 Raj Mahal",
+					"addrLine2": "Veer Nariman Road",
+					"addrLine3": "Churchgate",
+					"addrLine4": "Mumbai",
+					"pinCode": "842106",
+					"cityCode": "city12",
+					"stateCode": "state12",
+					"countryCode": "country12"
+				}
+			},
+			"cif": "9999992266",
+			"displayName": "Shreya",
+			"acctNum": "799002656213115",
+			"name": "Shreya",
+			"nickName": "Shreya",
+			"nominee": null,
+			"scheme": null
 		}
 	],
 	"applNum":"5556555566",
 	"birthType": "Single",
-	"cif":"9999999222",
+	"cif":"9999999333",
 	"currFYContriAmt": "25000.0",
 	"penaltyAmt": "2500.00",
 	"relationWithChild": "Daughter",
