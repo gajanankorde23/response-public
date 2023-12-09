@@ -1,28 +1,102 @@
 {
-  "statementData":[{
-    "tranParticulars":"TRNSFR TWRDS MN SEP 23",
-    "amount":2500.00,
-    "currBalance":10000,
-    "createdDate":"2023-09-01"
-  },
-  {
-    "tranParticulars":"TRNSFR TWRDS MN OCT 23",
-    "amount":2500.00,
-    "currBalance":12500,
-    "createdDate":"2023-10-01"
-  },
-{
-    "tranParticulars":"TRNSFR TWRDS MN OCT 23",
-    "amount":2500.00,
-    "currBalance":15000,
-    "createdDate":"2023-09-01"
-  },
-{
-    "tranParticulars":"INTERST TXN FY22-23",
-    "amount":1480.20,
-    "currBalance":16480.20,
-    "createdDate":"2023-09-01"
-  }
-
-]
+    "cif": "67868687",
+    "hasMoreData": "yes",
+    "transactions": [
+        {
+            "id": "TRN003",
+            "acctNum": "86876875857855",
+            "transactionDate": "2023-11-16",
+            "amount": 300.0,
+            "valueDate": "2023-11-16",
+            "transactionCurrencyCode": "INR",
+            "transactionType": "Credit",
+            "transactionParticulars": "Bonus",
+            "partTransactionType": "Deposit",
+            "transactionStatus": "Completed"
+        },
+        {
+            "id": "TRN004",
+            "acctNum": "86876875857855",
+            "transactionDate": "2023-11-15",
+            "amount": -75.5,
+            "valueDate": "2023-11-15",
+            "transactionCurrencyCode": "INR",
+            "transactionType": "Debit",
+            "transactionParticulars": "Bonus",
+            "partTransactionType": "Deposit",
+            "transactionStatus": "Completed"
+        },
+        {
+            "id": "TRN005",
+            "acctNum": "86876875857855",
+            "transactionDate": "2023-11-14",
+            "amount": 1000.75,
+            "valueDate": "2023-11-14",
+            "transactionCurrencyCode": "INR",
+            "transactionType": "Credit",
+            "transactionParticulars": "Bonus",
+            "partTransactionType": "Deposit",
+            "transactionStatus": "Completed"
+        },
+        {
+            "id": "TRN006",
+            "acctNum": "86876875857855",
+            "transactionDate": "2023-11-13",
+            "amount": -50.25,
+            "valueDate": "2023-11-13",
+            "transactionCurrencyCode": "INR",
+            "transactionType": "Debit",
+            "transactionParticulars": "Bonus",
+            "partTransactionType": "Deposit",
+            "transactionStatus": "Completed"
+        },
+        {
+            "id": "TRN007",
+            "acctNum": "86876875857855",
+            "transactionDate": "2023-11-12",
+            "amount": 600.0,
+            "valueDate": "2023-11-12",
+            "transactionCurrencyCode": "INR",
+            "transactionType": "Credit",
+            "transactionParticulars": "Bonus",
+            "partTransactionType": "Deposit",
+            "transactionStatus": "Completed"
+        },
+        {
+            "id": "TRN008",
+            "acctNum": "86876875857855",
+            "transactionDate": "2023-11-11",
+            "amount": -120.0,
+            "valueDate": "2023-11-11",
+            "transactionCurrencyCode": "INR",
+            "transactionType": "Debit",
+            "transactionParticulars": "Bonus",
+            "partTransactionType": "Deposit",
+            "transactionStatus": "Completed"
+        },
+        {
+            "id": "TRN009",
+            "acctNum": "86876875857855",
+            "transactionDate": "2023-11-10",
+            "amount": 200.5,
+            "valueDate": "2023-11-10",
+            "transactionCurrencyCode": "INR",
+            "transactionType": "Credit",
+            "transactionParticulars": "Bonus",
+            "partTransactionType": "Deposit",
+            "transactionStatus": "Completed"
+        },
+        {
+            "id": "TRN010",
+            "acctNum": "86876875857855",
+            "transactionDate": "2023-11-09",
+            "amount": -80.75,
+            "valueDate": "2023-11-09",
+            "transactionCurrencyCode": "INR",
+            "transactionType": "Debit",
+            "transactionParticulars": "Bonus",
+            "partTransactionType": "Deposit",
+            "transactionStatus": "Completed"
+        }
+    ]
 }
